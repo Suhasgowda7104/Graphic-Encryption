@@ -1,6 +1,6 @@
-# Visual Cryptography
+# Graphic Encryption
 
-Visual Cryptography is an encryption technique that allows for the secure transmission of images. This project provides an implementation of visual cryptography algorithms and showcases how images can be encrypted and decrypted using these methods.
+Graphic Encryption is an encryption technique that allows for the secure transmission of images. This project provides an implementation of visual cryptography algorithms and showcases how images can be encrypted and decrypted using these methods.
 
 ## Features
 
@@ -22,7 +22,6 @@ Visual Cryptography is an encryption technique that allows for the secure transm
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/DEADSERPENT/Visual-Cryptography.git
     ```
 
 2. **Navigate to the Project Directory**:
